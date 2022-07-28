@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clock_25-5_react/static/css/main.2e194e50.css",
+    "main.js": "/clock_25-5_react/static/js/main.01444e9b.js",
+    "index.html": "/clock_25-5_react/index.html",
+    "main.2e194e50.css.map": "/clock_25-5_react/static/css/main.2e194e50.css.map",
+    "main.01444e9b.js.map": "/clock_25-5_react/static/js/main.01444e9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e194e50.css",
+    "static/js/main.01444e9b.js"
+  ]
+}
